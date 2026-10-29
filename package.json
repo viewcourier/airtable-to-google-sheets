@@ -1,0 +1,9 @@
+{
+  "name": "airtable-to-google-sheets",
+  "version": "1.0.0",
+  "description": "Google Apps Script that copies an Airtable table or view into a Google Sheet on a schedule",
+  "license": "MIT",
+  "private": true,
+  "scripts": { "test": "node test/test.js" },
+  "engines": { "node": ">=18" }
+}
