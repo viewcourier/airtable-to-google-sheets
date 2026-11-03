@@ -10,7 +10,7 @@
  * Project Settings > Script properties as AIRTABLE_TOKEN.
  * Required token scope: data.records:read, with access to the base.
  *
- * Copyright (c) 2026 BASIT B.V. - MIT License
+ * Copyright (c) 2026 ViewCourier - MIT License
  */
 
 // ---------------------------------------------------------------------------
