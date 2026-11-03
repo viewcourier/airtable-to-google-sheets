@@ -91,4 +91,4 @@ Want it emailed as CSV, Excel or PDF on a schedule instead? [ViewCourier](https:
 
 ## License
 
-MIT. Copyright (c) 2026 BASIT B.V.
+MIT. Copyright (c) 2026 ViewCourier
